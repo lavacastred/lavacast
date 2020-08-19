@@ -1,0 +1,5 @@
+if secret == "38BFC9C5636CBC83BACC3E2DEEB7C" then
+	print("Script Accepted")
+else
+	print("Run The Main Script Otherwise This Wont Work")
+end
